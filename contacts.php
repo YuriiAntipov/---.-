@@ -31,7 +31,7 @@
                 </div>
                 <div class="col-sm-6 col-lg-4 item"><i class="fa fa-file-text-o icon"></i>
                     <h3 class="name">Email</h3><a href="mailto:praimservis@gmail.com">
-                        <p class="description">praimservis@gmail.com</p>
+                        <p class="description">praimservis22@gmail.com</p>
                     </a>
                 </div>
                 <div class="col-sm-6 col-lg-4 item"><i class="fa fa-briefcase icon"></i>
@@ -40,7 +40,14 @@
                 </div>
                 <div class="col" style="padding-right: 0px;padding-left: 0px;">
                     <!-- Start: Social Icons -->
-                    <div class="social-icons" style="padding-bottom: 0px;padding-top: 0px;"><a href="whatsapp.com"><i class="icon ion-social-whatsapp"></i></a><a href="telegramm.com"><i class="fa fa-telegram"></i></a><a href="twitter.com"><i class="icon ion-social-twitter"></i></a><a href="facebook.com"><i class="icon ion-social-facebook"></i></a><a href="snapchat.com"><i class="icon ion-social-snapchat"></i></a><a href="youtoube.com"><i class="icon ion-social-youtube"></i></a></div><!-- End: Social Icons -->
+                    <div class="social-icons" style="padding-bottom: 0px;padding-top: 0px;">
+                        <a href="//whatsapp.com"><i class="icon ion-social-whatsapp"></i></a>
+                        <a href="//telegram.org"><i class="fa fa-telegram"></i></a>
+                        <a href="//twitter.com"><i class="icon ion-social-twitter"></i></a>
+                        <a href="//facebook.com"><i class="icon ion-social-facebook"></i></a>
+                        <a href="//snapchat.com"><i class="icon ion-social-snapchat"></i></a>
+                        <a href="//youtube.com"><i class="icon ion-social-youtube"></i></a>
+                        </div><!-- End: Social Icons -->
                 </div>
             </div><!-- End: Features -->
         </div>

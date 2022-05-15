@@ -15,7 +15,7 @@
                     <h3>Контакты</h3>
                     <ul>
                         <li>Тел: 89261673972, 8(863)3001008</li>
-                        <li>Адрес: г. Ростов на Дону, ул. Лелюшенко, 18 а, оф 2.</li>
+                        <li>Адрес: г. Ростов-на-Дону, ул. Лелюшенко, 18 а, оф 2.</li>
                         <li>Email: praimservis22@gmail.com</li>
                     </ul>
                 </div><!-- End: About -->
@@ -42,7 +42,15 @@
             </div>
             <div class="row" style="margin-top: 20px;">
                 <!-- Start: Social Icons -->
-                <div class="col item social"><a href="whatsapp.com"><i class="icon ion-social-whatsapp"></i></a><a href="telegramm.com"><i class="fa fa-telegram"></i></a><a href="facebook.com"><i class="icon ion-social-facebook"></i></a><a href="twitter.com"><i class="icon ion-social-twitter"></i></a><a href="snapchat.com"><i class="icon ion-social-snapchat"></i></a><a href="instagramm.com"><i class="icon ion-social-instagram"></i></a><a href="youtoube.com"><i class="icon ion-social-youtube-outline"></i></a></div><!-- End: Social Icons -->
+                <div class="col item social">
+                    <a href="//whatsapp.com"><i class="icon ion-social-whatsapp"></i></a>
+                    <a href="//telegram.com"><i class="fa fa-telegram"></i></a>
+                    <a href="//facebook.com"><i class="icon ion-social-facebook"></i></a>
+                    <a href="//twitter.com"><i class="icon ion-social-twitter"></i></a>
+                    <a href="//snapchat.com"><i class="icon ion-social-snapchat"></i></a>
+                    <a href="//instagram.com"><i class="icon ion-social-instagram"></i></a>
+                    <a href="//youtube.com"><i class="icon ion-social-youtube-outline"></i></a>
+                    </div><!-- End: Social Icons -->
             </div><!-- Start: Copyright -->
             <p class="copyright">ЦАУ «Прайм Сервис» © 2022</p><!-- End: Copyright -->
         </div>

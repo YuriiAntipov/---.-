@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
-                        <h1 class="text-center">Калькулятор стоимости банкротства для граждан<br></h1>
+                        <h1 class="text-center" style="padding-top:20px; padding-bottom:20px;">Калькулятор стоимости банкротства для граждан<br></h1>
                         <h1 class="text-center" style="font-size: 20px;margin-bottom: 20px;margin-top: 0px;">Расходы на банкротство могут составлять от 100 тыс. до 250 тыс. руб.<br>Узнай свою стоимость<br><br></h1>
                         <h1 class="text-center" style="font-size: 20px;margin-bottom: 20px;margin-top: 0px;"><strong>Списать долги легче, чем Вы думаете!</strong><br><br>Мы рассчитаем стоимость Вашего банкротства, подготовим договори уже с завтрашнего дня начнем готовить документы на списание Ваших долгов.<br></h1>
                     </div>

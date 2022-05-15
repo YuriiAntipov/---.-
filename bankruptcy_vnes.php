@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
-                        <h1 class="text-center">Внесудебное банкротство<br></h1><!-- Start: Intro -->
+                        <h1 class="text-center" style="padding-top: 20px;">Упрощенное банкротство<br></h1><!-- Start: Intro -->
                         <div class="text-center intro"><img class="img-fluid" src="assets/img/bankruptcy_ip.jpg">
                             <h1 class="text-center" style="font-size: 20px;margin-bottom: 20px;margin-top: 0px;">Антикризисные решения<br></h1><a class="btn btn-dark action-button" role="button" href="feedback.php" style="margin-right: 10px;">Записаться на консультацию</a>
                             <div></div>
@@ -18,7 +18,7 @@
         </section><!-- End: bankruptcy_vnes_head -->
         <!-- Start: bankruptcy_vnes_body -->
         <div class="container">
-            <h3 class="text-center">У вас есть долги по кредитам?<br>Узнайте, подходит ли вам бесплатное банкротство? Звоните!<br>Внесудебное банкротство граждан через МФЦ.<br></h3>
+            <h3 class="text-center">У вас есть долги по кредитам?<br>Узнайте, подходит ли вам упрощенное банкротство? Звоните!<br>Упрощенное банкротство граждан через МФЦ.<br></h3>
             <div class="row">
                 <div class="col-md-6">
                     <h5>Условия</h5>

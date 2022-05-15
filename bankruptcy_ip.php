@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2">
-                        <h1 class="text-center">Банкротство ИП<br></h1><!-- Start: Intro -->
+                        <h1 class="text-center" style="padding-top: 20px;">Банкротство ИП<br></h1><!-- Start: Intro -->
                         <div class="text-center intro"><img class="img-fluid" src="assets/img/bankruptcy_ip.jpg">
                             <h1 class="text-center" style="font-size: 20px;margin-bottom: 20px;margin-top: 0px;">Антикризисные решения<br></h1><a class="btn btn-dark action-button" role="button" href="feedback.php" style="margin-right: 10px;">Записаться на консультацию</a>
                             <div></div>
